@@ -1,16 +1,15 @@
-## Hi there 👋
+# Bentendo
 
-<!--
-**BentendoYT/BentendoYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "The quieter you become, the more you are able to hear."
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+const bentendo = {
+  role: "Developer | Ethical Hacker",
+  mindset: "Understand. Build. Secure.",
+  focus: ["Pentesting", "Automation", "Reverse Engineering", "System Security"],
+  languages: ["Python", "Batch", "PowerShell", "C#", "HTML", "CSS", "JavaScript"],
+  tools: ["Burp Suite", "Wireshark", "nmap", "Metasploit", "PyInstaller", "Git"],
+  environment: ["Windows", "Linux", "WSL"],
+  values: ["Clean Code", "Privacy", "Precision", "Curiosity"],
+  currently: "Building security tools and learning advanced exploit techniques"
+}
