@@ -1,7 +1,5 @@
-# <img width="1280" height="720" alt="sub_banner_blog" src="https://github.com/user-attachments/assets/c96ac865-8c8f-4447-97e5-05511eeb7f30" />
+# <img width="1280" height="720" alt="Github_Header" src="https://github.com/user-attachments/assets/8a5126ac-4646-45b6-a9cc-9421c3b6495b" />
 
-
-> "The quieter you become, the more you are able to hear."
 
 ```js
 const bentendo = {
