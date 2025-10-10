@@ -1,4 +1,5 @@
-# Bentendo
+# <img width="1280" height="720" alt="sub_banner_blog" src="https://github.com/user-attachments/assets/c96ac865-8c8f-4447-97e5-05511eeb7f30" />
+
 
 > "The quieter you become, the more you are able to hear."
 
