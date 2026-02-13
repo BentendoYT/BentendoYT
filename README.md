@@ -13,3 +13,11 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/BentendoYT">
 </p>
+<div align="center">
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Bentendo_real)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/bentendo_live)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8b53vhHb66)
+[![Links](https://img.shields.io/badge/Links-00C7B7?style=for-the-badge&logo=linktree&logoColor=white)](https://beacons.ai/bentendo)
+
+</div>
