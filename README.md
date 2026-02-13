@@ -1,15 +1,9 @@
-# <img width="1280" height="720" alt="GithubHeaderNEW" src="https://github.com/user-attachments/assets/8e2795fe-e9be-4136-abba-d27c3b206480" />
+# <img width="1788" height="318" alt="Github_Banner_2026" src="https://github.com/user-attachments/assets/31c0c1a9-9d85-4397-965a-0725a1df9c4b" />
 
 
 
-```js
-const bentendo = {
-  role: "Developer | Ethical Hacker",
-  mindset: "Understand. Build. Secure.",
-  focus: ["Pentesting", "Automation", "Reverse Engineering", "System Security"],
-  languages: ["Python", "Batch", "PowerShell", "C#", "HTML", "CSS", "JavaScript"],
-  tools: ["Burp Suite", "Wireshark", "nmap", "Metasploit", "Git"] ,
-  environment: ["Windows", "Linux"],
-  values: ["Clean Code", "Privacy", "Precision", "Curiosity"],
-  currently: "Building security tools and learning advanced exploit techniques"
-}
+
+
+<p align="center">
+  <i>Code with vision. Build with style.</i>
+</p>
