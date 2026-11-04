@@ -11,7 +11,8 @@
 </p>
 
 <p align="center">
+  Fun fact: 2026 is
   <!-- YEAR_PROGRESS_START -->
-Fun fact: 2026 is 0% over.
   <!-- YEAR_PROGRESS_END -->
+  over.
 </p>
