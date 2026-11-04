@@ -15,7 +15,7 @@ length = 30
 filled = round(length * percent / 100)
 bar = "█" * filled + "░" * (length - filled)
 
-section = f"`{bar}` **{percent:.2f}%**"
+section = f"{bar} {percent:.2f}%"
 
 path = Path("README.md")
 content = path.read_text(encoding="utf-8")
