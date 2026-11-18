@@ -13,7 +13,7 @@
 <p align="center">
   Fun fact: 2026 is
   <!-- YEAR_PROGRESS_START -->
-  ██████████████████████████░░░░ 87.85%
+  ██████████████████████████░░░░ 88.12%
   <!-- YEAR_PROGRESS_END -->
   over.
 </p>
